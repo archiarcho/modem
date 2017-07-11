@@ -1,6 +1,6 @@
 {
   "name": "modem",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Send and receive messages and make ussd queries using your GSM modems",
   "homepage": "http://github.com/emilsedgh/modem",
   "main": "./index.js",
